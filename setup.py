@@ -3,7 +3,7 @@ from setuptools import setup
 
 requirements = [
     "IBMQuantumExperience>=1.8.19",
-    "requests>=2.18,<2.19",
+    "requests>=2.18,<2.21",
     "networkx>=1.11,<1.12",
     "ply==3.10",
     "numpy>=1.13,<1.14",
